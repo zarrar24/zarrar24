@@ -22,9 +22,9 @@
 ---
 
 ### 📫 How to reach me:
-- 📧 **Email:** zarrar@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📧 **Email:** saimumer6131@gmail.com  
+- 💼 [LinkedIn](http://www.linkedin.com/in/zarrarhaider)
+
 
 ---
 
