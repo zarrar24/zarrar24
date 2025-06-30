@@ -1,46 +1,75 @@
-## 👋 Hi, I’m Zarrar Haider  
+<h1 align="center">Hi there, I'm Zarrar Haider 👋</h1>
 
-🎓 I’m a passionate **Artificial Intelligence student** constantly exploring the world of AI, machine learning, data science, and software development.  
-
-💡 I’m always eager to learn new technologies, contribute to open-source projects, and collaborate with like-minded developers. I enjoy solving complex problems and creating intelligent systems that can make a positive impact.  
-
----
-
-### ⚡ What I’m working on:
-- Machine learning and deep learning projects  
-- Data analysis and visualization  
-- AI-powered applications  
-- Improving my knowledge in **advanced statistics**, **linear algebra**, and **Python for AI**
-
----
-
-### 🌱 I’m currently learning:
-- Computer vision and natural language processing  
-- Advanced Python (NumPy, pandas, scikit-learn, PyTorch, TensorFlow)  
-- Deployment of AI models  
-
----
-
-### 📫 How to reach me:
-- 📧 **Email:** saimumer6131@gmail.com  
-- 💼 [LinkedIn](http://www.linkedin.com/in/zarrarhaider)
-
-
----
-
-### 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarrarhaider&show_icons=true&theme=radical" alt="zarrarhaider" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarrarhaider&theme=radical" alt="zarrarhaider" />
+<p align="center">
+🚀 AI Student | 🧠 ML Enthusiast | 🎨 Creative Designer | 👨‍💻 Future Innovator
 </p>
+
+<p align="center">
+<a href="https://github.com/zarrarhaider"><img src="https://img.shields.io/github/followers/zarrarhaider?label=Follow&style=social" /></a>
+<a href="https://www.linkedin.com/in/your-link/"><img src="https://img.shields.io/badge/LinkedIn-Zarrar%20Haider-blue?logo=linkedin&style=flat" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-informational" /></a>
+</p>
+
+---
+
+## 🧠 About Me
+```yaml
+Name: Zarrar Haider
+Focus: Artificial Intelligence Student
+Passion: Building AI-powered solutions, creative problem-solving
+Dream: To innovate impactful tech solutions that improve lives
+🎓 BS Artificial Intelligence @ NUML University
+
+💡 I enjoy exploring Machine Learning, Deep Learning, Computer Vision, and Data Science
+
+✍️ Currently designing my own AI and automation projects
+
+💬 Let's talk about AI, startups, open-source, or graphic design
+
+📫 Reach me: zarrar.email@example.com
+
+⚙️ Tech Stack
+mermaid
+Copy
+Edit
+graph TD;
+  AI-->Python
+  AI-->Pandas
+  AI-->NumPy
+  AI-->TensorFlow
+  AI-->Scikit-Learn
+  Web-->HTML
+  Web-->CSS
+  Web-->JavaScript
+  Backend-->MySQL
+  Tools-->Git
+  Tools-->Figma
+  Tools-->Canva
+🚧 Current Projects
+🔐 Student Clearance Management System – Python + MySQL GUI-based app
+
+🤖 AI Chat Assistant – NLP based context-aware assistant
+
+🎨 Design Portfolio – A showcase of creative graphic designs
+
+📊 Data Analytics Dashboard – Pandas, Seaborn & Plotly powered insights
+
+📘 What I’m Learning
+Advanced Statistics & Probability
+
+Computer Vision with OpenCV
+
+Deep Learning Models (CNNs, RNNs)
+
+UI/UX with Tailwind & React
+
+🧠 My Belief
+“Learning never exhausts the mind, it only fuels it.” – Leonardo da Vinci
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zarrarhaider&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zarrarhaider&layout=compact&theme=tokyonight" /> </p>
+🤝 Let’s Collaborate
+If you're working on something exciting, want to learn together, or just say hi – feel free to connect!
+I’m always open to contributing to meaningful open-source projects or teaming up for creative solutions.
+
+<p align="center"> 🖤 Built with passion and purpose by Zarrar Haider </p> ```
